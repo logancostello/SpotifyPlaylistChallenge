@@ -1,7 +1,7 @@
 # Spotify Million Playlist Dataset Challenge
 
 ## Introduction
-I estimate that I would have placed **10th (top 6%)** in the Spotify Million Playlist Dataset Challenge. I achieved these results by building a two stage recommendation system that combines matrix factorization, BERT embeddings, co-occurrences, and other playlist and track features to recommend tracks to add to existing playlists on Spotify. 
+I estimate that I would have placed **10th (top 6%)** in the Spotify Million Playlist Dataset Challenge. I achieved these results by building a two stage recommendation system that combines matrix factorization, BERT embeddings, co-occurrences, and many playlist and track features to recommend tracks to add to existing playlists on Spotify. 
 
 ## Example Recommendations
 Note that the dataset only contains songs released before 2018.
